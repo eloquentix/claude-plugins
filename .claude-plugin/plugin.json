@@ -4,15 +4,7 @@
   "version": "1.0.0",
   "author": { "name": "ao" },
   "category": "development",
-  "lspServers": {
-    "metals": {
-      "command": "metals",
-      "extensionToLanguage": {
-        ".scala": "scala",
-        ".sc": "scala",
-        ".sbt": "sbt"
-      },
-      "startupTimeout": 120000
-    }
-  }
+  "repository": "https://github.com/eloquentix/claude-plugins",
+  "license": "Apache-2.0",
+  "keywords": ["scala", "metals", "lsp", "language-server"]
 }
