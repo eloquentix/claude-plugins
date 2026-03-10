@@ -1,0 +1,18 @@
+{
+  "name": "metals-lsp",
+  "description": "Scala language server (Metals) for code intelligence, refactoring, and analysis",
+  "version": "1.0.0",
+  "author": { "name": "ao" },
+  "category": "development",
+  "lspServers": {
+    "metals": {
+      "command": "metals",
+      "extensionToLanguage": {
+        ".scala": "scala",
+        ".sc": "scala",
+        ".sbt": "sbt"
+      },
+      "startupTimeout": 120000
+    }
+  }
+}

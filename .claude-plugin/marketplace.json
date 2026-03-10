@@ -1,0 +1,13 @@
+{
+  "name": "metals-lsp",
+  "owner": {
+    "name": "ao"
+  },
+  "plugins": [
+    {
+      "name": "metals-lsp",
+      "source": "./",
+      "description": "Scala language server (Metals) for code intelligence, refactoring, and analysis"
+    }
+  ]
+}
