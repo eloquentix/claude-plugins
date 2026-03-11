@@ -1,7 +1,7 @@
 {
   "name": "metals-lsp",
   "description": "Scala language server (Metals) for code intelligence, refactoring, and analysis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": { "name": "ao" },
   "category": "development",
   "repository": "https://github.com/eloquentix/claude-plugins",
